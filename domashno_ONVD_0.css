@@ -1,0 +1,94 @@
+body{
+    background: url('https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500') no-repeat center fixed;
+    background-size: cover;
+}
+.intro{
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+    alignment: center;
+    float: center;
+    position: relative;
+    font-family: "Helvetica";
+    font-style: oblique;
+    color: white;
+    border: 5px;
+    center: 100%;
+}
+.meni{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 20px;
+    float: top;
+    top: 85%;
+    position: static;
+}
+#jeren{
+    text-align: left;
+    align-content: left;
+    alignment: left;
+    float: left;
+    position: relative;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    mso-border-shadow: yes;
+    border: 10px gold;
+}
+#veren{
+    text-align: right;
+    align-content: right;
+    alignment: right;
+    float: right;
+    position: relative;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    mso-border-shadow: yes;
+    border: 10px gold;
+}
+a{
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    font-family: Alef;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 400px;
+    top: 65px;
+    position: static;
+    float: top;
+}
+h1, h2, h3{
+    text-align: center;
+    align-content: center;
+    alignment: center;
+    justify-content: center;
+    top: auto;
+}
+.intro{
+    margin: auto;
+    padding: initial;
+    border: 5px goldenrod;
+
+}
